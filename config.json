@@ -1,0 +1,15 @@
+{
+    "discord_bot":{
+      "bot_token": "BOT_TOKEN",
+      "bridge_channel_name": "bridge-channel"
+    },
+    "email":{
+      "sender": {
+        "address": "SENDER_EMAIL_ADDRESS",
+        "password": "SENDER_EMAIL_PASSWORD"
+      },
+      "receiver": {
+        "address": "RECEIVER_EMAIL_ADDRESS"
+      }
+    }
+}
